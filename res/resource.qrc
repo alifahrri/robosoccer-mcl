@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>errortable.bin</file>
+    </qresource>
+</RCC>
